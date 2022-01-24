@@ -1,4 +1,4 @@
-# CNN_CIFAR_10_CIFAR100
+# CNN_CIFAR10_CIFAR100
 
 This repository provides CNN models with CIFAR 10 AND CIFAR 100 datasets while using TensorFlow Keras library.
 Used layers:
